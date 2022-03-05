@@ -42,3 +42,18 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 * Usar a palavra reservada **try** para tratar trechos sensíveis a erros.
 * Usar a palavra reservada **except** para tratamento dos erros.
 * Tratar várias **exceções** específicas.
+
+## 02 - Propagação de Disparo de Exceções &#x1F516;
+* Como lançar exceções com o comando `raise`.
+* Qual o fluxo de execução quando um erro é disparado.
+* Como usar o `except` para capturar diferentes tipos de exceção.
+
+### 01 - Tratamento de Exceções
+* Atribuir uma variável à exceção lançada com `as`.
+* Usar o `.__class__.__bases__` para saber qual é a exceção pai de uma exceção.
+* Tratar erros do menos genérico até o mais genérico.
+
+### 02 - Raise
+* Se nenhum retorno for feito para atribuir o valor a uma variável, o valor `None` será o valor que será atribuido por padrão.
+* Usar a palavra reservada `raise`.
+* Usar a função `isinstance(VARIABLE, TYPE)` para verificar se a instância da variável.
