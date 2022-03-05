@@ -68,3 +68,10 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 
 ### 02 - Argumentos e Alias
 * Criando métodos `get` e `set`.
+
+## 04 - Debugando Via Linha de Comando &#x1F516;
+* A colocar `breakpoint(s)` dentro do código para não poluirmos nosso código na hora de debugar.
+* Como usar o *debbuger* para analisar o código linha a linha de forma iterativa e achar erros.
+
+### 01 - Debugando
+* Definir um breakpoint no código com a função `breakpoint()`.
