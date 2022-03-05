@@ -57,3 +57,14 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 * Se nenhum retorno for feito para atribuir o valor a uma variável, o valor `None` será o valor que será atribuido por padrão.
 * Usar a palavra reservada `raise`.
 * Usar a função `isinstance(VARIABLE, TYPE)` para verificar se a instância da variável.
+
+## 03 - Argumentos e Alias &#x1F516;
+* Como adicionar Propriedades em nossas classes e quais são as vantagens delas.
+* Relembramos que o Python é uma linguagem de escopo aberto e por isso não possui modificadores de acesso.
+* Vimos o padrão "__"(double under) para marcar atributos e métodos privados.
+
+### 01 - Simulando Atributos Privados
+* Criar a classe `CheckingAccount`.
+
+### 02 - Argumentos e Alias
+* Criando métodos `get` e `set`.
