@@ -99,3 +99,16 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 
 ### 02 - Disparo de Exceções
 * -
+
+## 07 - Liberando Recursos com With &#x1F516;
+* A usar a cláusula `finally` para fechamento de recursos e operações que independem do acontecimento ou não de um erro.
+* Como facilitar o entendimento e termos um código seguro com o `with`.
+* Sobre a importância de liberar recursos compartilhados do sistema como arquivos externos.
+
+### 01 - Bloco Finally
+* Usar o bloco `Finally` para executar um trecho de código independentemente de haver exceção ou não.
+* Verificar as variáveis locais com `locals()`.
+
+### 02 - Liberando Recursos
+* Usar a cláusula `with` como liberação de recursos.
+* Implementar os métodos `__enter__` e `__exit__` para criação e fechamento de um recurso de uma classe.
