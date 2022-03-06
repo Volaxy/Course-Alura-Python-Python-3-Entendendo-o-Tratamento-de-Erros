@@ -88,3 +88,14 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 ### 02 - Enriquecendo Exceções
 * Exibir uma mensagem padrão ao instânciar a exceção.
 * Usar uma série de argumentos com `*args`.
+
+## 06 - Disparos de Exceções Encadeadas &#x1F516;
+* A lançar exceções a partir de um bloco `except`.
+* Que podemos sobrescrever o atributo `args` de uma exceção para evitar que informações vazem pelas mensagens de erro.
+* A sintaxe de `raise <Exception> from E` onde lançamos uma nova exceção a partir de uma já tratada.
+
+### 01 - Traceback
+* Exibir a pilha de execução com `traceback.print_exc()`.
+
+### 02 - Disparo de Exceções
+* -
