@@ -75,3 +75,16 @@ URL do curso -> [Python 3: Entendendo o Tratamento de Erros](https://cursos.alur
 
 ### 01 - Debugando
 * Definir um breakpoint no código com a função `breakpoint()`.
+
+## 05 - Enriquecendo as Exceções &#x1F516;
+* A criar nossas próprias exceções para informar erros de maneira mais contextualizada.
+* Que devemos sempre herdar da classe `Exception` na hora de criar nossos erros.
+* Sobre a vantagem de enriquecer os objetos de erro com mais informação.
+* Como usar os parâmetros `args` e `kwargs` em nossos erros.
+
+### 01 - Criando uma Exceção
+* Criar a própria **exceção**.
+
+### 02 - Enriquecendo Exceções
+* Exibir uma mensagem padrão ao instânciar a exceção.
+* Usar uma série de argumentos com `*args`.
